@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GeneratorDemo/GeneratorDemo.iml" filepath="$PROJECT_DIR$/GeneratorDemo/GeneratorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/didi/didi.iml" filepath="$PROJECT_DIR$/didi/didi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwc/jwc.iml" filepath="$PROJECT_DIR$/jwc/jwc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swmanager/swmanager.iml" filepath="$PROJECT_DIR$/swmanager/swmanager.iml" />
+    </modules>
+  </component>
+</project>
